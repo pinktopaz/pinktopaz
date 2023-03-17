@@ -1,8 +1,6 @@
 💗Pinktopaz💗
----
 > Pinktopaz is a gemstone that would make things true. <br>
-
-![Pinktopaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinktopaz&show_icons=true&theme=radical)
+---
 
  ## 👩‍💻 Experience 
 
