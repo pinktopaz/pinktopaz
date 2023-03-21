@@ -11,7 +11,7 @@
 |<a href="http://sopt.org/wp/">IN SOPT</a>|22.0.24 ~ 23.01.28 | 31기 웹파트 수료 - JavaScript & React 스터디 참여, Pic.me 개발 |
 |<a href="https://deliverble.kr/">Deliverble</a>|22.07.04 ~ | 아나운서 쉐도잉으로 키우는 스피치 자신감, 딜리버블 , 1차 릴리즈 완료 |
 |<a href="http://sopt.org/wp/">THE SOPT</a>|22.03.23 ~ 07.30| 30기 기획파트 수료 - Deliverble PM으로 참여 |
-|<a href="https://cse.ewha.ac.kr/">EWHA CSE</a>|20.03 ~ | 현재 휴학, 2023년 2학기 3-2로 복학 예정|
+|<a href="https://cse.ewha.ac.kr/">EWHA CSE</a>|20.03 ~ | 2023년 상반기 현재 휴학 중|
 
  ## 📚 Tech Stack
 
