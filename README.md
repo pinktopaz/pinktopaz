@@ -9,7 +9,7 @@
 |<a href="https://with-picme.com/">GO SOPT</a>|22.03.25 ~ |  32기 웹파트 OB 활동 중 - JavaScript & 알고리즘 & 웹심화 스터디 참여 |
 |<a href="https://with-picme.com/">Pic.me</a>|22.12.11 ~ |  빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미! , 2차 릴리즈 완료 |
 |<a href="https://sopt.org/project/28">잼민어번역기</a>|22.11.19 | 솝커톤 : 신조어와 유행어를 익숙한 표현으로 번역해주는 서비스, 잼민어 번역기 개발 |
-|<a href="http://sopt.org/wp/">IN SOPT</a>|22.0.24 ~ 23.01.28 | 31기 웹파트 수료 - JavaScript & React 스터디 참여, Pic.me 개발 |
+|<a href="http://sopt.org/wp/">IN SOPT</a>|22.09.24 ~ 23.01.28 | 31기 웹파트 수료 - JavaScript & React 스터디 참여, Pic.me 개발 |
 |<a href="https://deliverble.kr/">Deliverble</a>|22.07.04 ~ | 아나운서 쉐도잉으로 키우는 스피치 자신감, 딜리버블 , 1차 릴리즈 완료 |
 |<a href="http://sopt.org/wp/">THE SOPT</a>|22.03.23 ~ 07.30| 30기 기획파트 수료 - Deliverble PM으로 참여 |
 |<a href="https://cse.ewha.ac.kr/">EWHA CSE</a>|20.03 ~ | 2023년 상반기 현재 휴학 중|
