@@ -10,7 +10,8 @@
 |TECH4GOOD 해커톤|23.09.14 ~ 23.09.15|하나금융그룹, SKT 공동 주관 사회적 약자를 위한 AI·디지털 서비스 아이디어 발굴 해커톤, 최우수상 수상|
 |<a href="https://www.hanapoweron.com/digitalpoweron/">하나 디지털 파워온 프로젝트 2기</a>|23.07 ~|하나금융그룹 주관 디지털 청년 인재 양성 프로그램 참여|
 |Tutice(튜티스)|22.07 ~ |쉬운 수업 관리로 열리는 정확한 나의 결실 - 1차 릴리즈 준비 중|
-|<a href="https://with-picme.com/">GO SOPT</a>|22.03.25 ~ |  32기 웹파트 OB 활동 중 - JavaScript & 알고리즘 & 웹심화 스터디 참여, Tutice 개발 |
+|Katchup(케찹)|23.05 ~ |간편하고 효율적인 인수인계를 돕는 B2B 기록 서비스 - B2C 베타 버전 릴리즈 준비 중|
+|<a href="https://with-picme.com/">GO SOPT</a>|23.03.25 ~ |  32기 웹파트 OB 활동 중 - JavaScript & 알고리즘 & 웹심화 스터디 참여, Tutice 개발 |
 |<a href="https://with-picme.com/">Pic.me</a>|22.12.11 ~ |  빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미! , 2차 릴리즈 완료 |
 |<a href="https://sopt.org/project/28">잼민어번역기</a>|22.11.19 | 솝커톤 : 신조어와 유행어를 익숙한 표현으로 번역해주는 서비스, 잼민어 번역기 개발 |
 |<a href="http://sopt.org/wp/">IN SOPT</a>|22.09.24 ~ 23.01.28 | 31기 웹파트 수료 - JavaScript & React 스터디 참여, Pic.me 개발 |
