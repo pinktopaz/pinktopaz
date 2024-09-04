@@ -1,7 +1,7 @@
 ## 👩‍💻 Work 
 |소속|기간|내용|
 |---|---|---|
-|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>| 24.07 ~ 재직 중 | Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발 |
+|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>| 24.07 ~ 재직 | Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발 |
 
  ## 👩‍💻 Experience 
 
