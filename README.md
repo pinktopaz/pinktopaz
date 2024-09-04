@@ -1,7 +1,7 @@
 ## 👩‍💻 Work 
-|소속|기간|&nbsp;부서&nbsp; |내용|
-|---|---|-----|---|
-|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>|24.07.01 ~ 재직 중|IT팀|Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발|
+|소속|기간|부서|내용|
+|---|---|---|---|
+|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>|24.07 ~ 재직 중|  IT팀  |Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발|
 
  ## 👩‍💻 Experience 
 
@@ -14,12 +14,12 @@
 |<a href="https://www.hanapoweron.com/digitalpoweron/">하나 디지털 파워온 프로젝트 2기 - 최종성과발표회 장려상 수상 </a>| 23.07 ~ 23.12 | 하나금융그룹 주관 디지털 청년 인재 양성 프로그램 참여 |
 |<a href="https://www.tutice.com">Tutice(튜티스)</a>| 23.07 ~ |쉬운 수업 관리로 열리는 정확한 나의 결실, Tutice|
 |<a href="https://www.katchup.kr">Katchup(케찹)</a>| 23.05 ~ 23.12 |간편하고 효율적인 인수인계를 돕는 B2B 기록 서비스|
-|<a href="https://www.sopt.org/">GO SOPT</a>| 23.03 ~ 23.07 | 32기 웹파트 수료 |
+|<a href="https://www.sopt.org/">GO SOPT</a>| 23.03 ~ 23.07 | 국내 최대 규모 대학생 IT 벤처 창업 연합 SOPT 32기 웹파트 수료 |
 |Pic.me| 22.12 ~ 23.12 | 빠르게 골라보는 나의 사진, 뭐 올릴지 고민 될 땐? 픽미!|
 |<a href="https://sopt.org/project/28">잼민어번역기</a>| 22.11.19 | 솝커톤 : 신조어와 유행어를 익숙한 표현으로 번역해주는 서비스, 잼민어 번역기 개발|
-|<a href="https://www.sopt.org/">IN SOPT</a>| 22.09 ~ 23.01 | 31기 웹파트 수료|
+|<a href="https://www.sopt.org/">IN SOPT</a>| 22.09 ~ 23.01 | 국내 최대 규모 대학생 IT 벤처 창업 연합 SOPT 31기 웹파트 수료|
 |<a href="https://deliverble.kr/">Deliverble</a>| 22.07 ~ | 아나운서 쉐도잉으로 키우는 스피치 자신감, 딜리버블 |
-|<a href="https://www.sopt.org/">THE SOPT</a>| 22.03 ~ 22.07 | 30기 기획파트 수료 |
+|<a href="https://www.sopt.org/">THE SOPT</a>| 22.03 ~ 22.07 | 국내 최대 규모 대학생 IT 벤처 창업 연합 SOPT 30기 기획파트 수료 |
 |<a href="https://cse.ewha.ac.kr/">OO대학교 컴퓨터공학전공</a>| 20.03 ~ 25.02 | 졸업예정 |
 
  ## 📚 Tech Stack
