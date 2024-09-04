@@ -1,6 +1,3 @@
-💗Pinktopaz💗
-> Pinktopaz is a gemstone that would make things true. <br>
----
 ## 👩‍💻 Work 
 |소속|기간|부서|내용|
 |---|---|---|---|
