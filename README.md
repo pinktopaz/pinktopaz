@@ -20,6 +20,5 @@
 |<a href="https://www.sopt.org/">IN SOPT</a>| 22.09 ~ 23.01 | 국내 최대 규모 대학생 IT 벤처 창업 연합 SOPT 31기 웹파트 수료|
 |<a href="https://deliverble.kr/">Deliverble</a>| 22.07 ~ | 아나운서 쉐도잉으로 키우는 스피치 자신감, 딜리버블 |
 |<a href="https://www.sopt.org/">THE SOPT</a>| 22.03 ~ 22.07 | 국내 최대 규모 대학생 IT 벤처 창업 연합 SOPT 30기 기획파트 수료 |
-|<a href="https://cse.ewha.ac.kr/">OO대학교 컴퓨터공학전공</a>| 20.03 ~ 25.02 | 졸업예정 |
 
 
