@@ -1,7 +1,7 @@
 ## 👩‍💻 Work 
 |소속|기간|부서|내용|
 |---|---|---|---|
-|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>|24.07 ~ 재직 중|  IT팀  |Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발|
+|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>|24.07 ~ 재직 중|&nbsp;&nbsp;IT팀&nbsp;&nbsp;|Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발|
 
  ## 👩‍💻 Experience 
 
@@ -22,19 +22,4 @@
 |<a href="https://www.sopt.org/">THE SOPT</a>| 22.03 ~ 22.07 | 국내 최대 규모 대학생 IT 벤처 창업 연합 SOPT 30기 기획파트 수료 |
 |<a href="https://cse.ewha.ac.kr/">OO대학교 컴퓨터공학전공</a>| 20.03 ~ 25.02 | 졸업예정 |
 
- ## 📚 Tech Stack
-
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/styled/component-e084c6?style=flat-square&logo=styled-components&logoColor=white"/>
- <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=Typescript&logoColor=white"/></a>
-
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
