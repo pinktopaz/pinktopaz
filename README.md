@@ -1,5 +1,5 @@
 ## 👩‍💻 Work 
-|소속|기간|부서|내용|
+|소속|기간|&nbsp;&nbsp;부서&nbsp;&nbsp;|내용|
 |---|---|---|---|
 |<a href="https://rainbirdgeo.com/">RainbirdGEO</a>|24.07 ~ 재직 중|&nbsp;&nbsp;IT팀&nbsp;&nbsp;|Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발|
 
