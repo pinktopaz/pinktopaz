@@ -2,13 +2,13 @@
 |소속|&nbsp;기간&nbsp;|내용|
 |---|---|---|
 |<a>Hyundai Mobis</a>| 25.01 ~ 재직 | 제품 생애 주기 관리 시스템 PLM (Product Lifecycle Management) 운영 및 AI Agent 개발 |
-|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>| 24.07 ~ 24.09 | Software Engineer로서 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발 |
+|<a href="https://rainbirdgeo.com/">RainbirdGEO</a>| 24.07 ~ 24.09 | 인도네시아 조기경보 알림 앱 AwasBencana, 민간 주도 K-택소노미 적용시스템 개발 |
 
  ## 👩‍💻 Experience 
 
 |소속|기간|내용|
 |---|---|---|
-|이회여자대학교 HCIL(인간컴퓨터상호작용 연구실) 학부연구생| 24.07 ~ 24.08 | HTP 미술심리검사에 LLM을 적용하였을 때의 효과 연구 (CHI 논문 제출 예정), HTC Vive와 Sense Glove를 활용한 가상현실 과학실험실 만들기 프로젝트 참여 |
+|이화여자대학교 HCIL(인간컴퓨터상호작용 연구실) 학부연구생| 24.07 ~ 24.08 | HTP 미술심리검사에 LLM을 적용하였을 때의 효과 연구 (CHI 논문 제출 예정), HTC Vive와 Sense Glove를 활용한 가상현실 과학실험실 만들기 프로젝트 참여 |
 |이화여자대학교 24학년도 1학기 졸업프로젝트 장려상| 23.09 ~ 24.06 | 객체 탐지 AI를 활용한 CCTV 속 흉기 난동 탐지 서비스, Peace Watcher |
 |AWS Student Club Ewha| 23.09.26 ~ | AWS 기술에 관심있는 대학생들이 모여 클라우드 기술을 공부하고 전파하는 교내 커뮤니티 |
 |<a href="https://news.sktelecom.com/198117">TECH4GOOD 해커톤</a>| 23.09.14 ~ 23.09.15 | 하나금융그룹, SKT 공동 주관 사회적 약자를 위한 AI·디지털 서비스 아이디어 발굴 해커톤, 최우수상 수상 |
